@@ -343,6 +343,330 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Crear base de datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Crear la base de datos con sus correspondientes tablas             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Añadir categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir la categoría que corresponde a la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Modificar categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | Modifica una categoría de la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Eliminar categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | Elimina una categoría de la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Añadir un evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadimos un evento a la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Modificar un evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Modifica una evento de la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Eliminar un evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un evento de la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Añadir un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadimos un usuario a la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Modificar un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Modifica un usuario de la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Eliminar un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Elimina un usuario de la base de datos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Registrarse**         |
+| --------------: | :------------------- |
+| **Descripción** | Registrarse como usuario en la aplicación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Iniciar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Iniciar sesión en la aplicación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Cerrar Sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | Cerrar sesión en la aplicación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Buscar evento por categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar un evento por categoría en la aplicación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Buscar un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Busca un usuario registrado en la aplicación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Ordenar por categorías**         |
+| --------------: | :------------------- |
+| **Descripción** | Ordenar los eventos según su categoría             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Ordenar por fecha de creación**         |
+| --------------: | :------------------- |
+| **Descripción** | Ordenar los eventos según su fecha de creación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Guardar la ubicación del evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Guardaremos el evento con la ubicación , en un mapa para situarlo             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R57**     | **Realizar comentarios a los usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario registrado , comentara como fue la experiencia con ese usuario que realizo el evento             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R58**     | **Valorar el evento**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario valorada el evento             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R59**     | **Crear Torneo**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios crean un torneo sobre un evento             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R60**     | **Añadir amigo**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios pueden recibir peticiones de amistad y las pueden aceptar o rechazar esas peticiones             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R61**     | **Eliminar amigos**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios pueden eliminar la amistad              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R62**     | **Realizar comentarios sobre el evento**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podran compartir su opinión , sobre como se han sentido en el evento.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R63**     | **Valorar al usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podran valorar , como ha sido la experiencia con los diferentes usuarios dándole una valoración             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R64**     | **Correo de confirmación**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario registrado , recibirá un correo de confirmación para iniciar la sesión             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R65**     | **Recuperar contraseña**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario podrá recuperar la contraseña o solicitar una nueva             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R66**     | **Gestionar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | El Administrador gestionara los perfiles de los usuarios             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R67**     | **Chat en tiempo real **         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios se podran poner de acuerdo para organizar el partido             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R68**     | **Pago a través de PayPal**         |
+| --------------: | :------------------- |
+| **Descripción** | Los partidos tendrán un precio y se pagara mediante Paypal             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R69**     | **Foto de perfil **         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios tendrán fotos asociadas a su perfil             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R70**     | **Aficiones**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios mostraran sus diferentes aficiones , para los eventos              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R71**     | **Mi perfil**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario mostrar su perfil con sus gustos deportivos. Podrá gestionar todos los datos que tenga asociado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R72**     | **Niveles**         |
+| --------------: | :------------------- |
+| **Descripción** | Algunos deportes de categorizan por niveles, los usuarios dirán a que nivel pertenece             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R73**     | **Posición**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios indicaran en la posición preferente que juegan en los diferentes deportes.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R74**     | **Ligas**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podran crear ligas interna dentro de la aplicación             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -386,3 +710,39 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R39**) Crear base de datos | Importante | Funcional | Fácil | v1 | 
+| (**R40**) Añadir categoría | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Modificar categoría | Importante | Funcional | Fácil | v1 | 
+| (**R42**) Eliminar categoría | Importante | Funcional | Fácil | v1 | 
+| (**R43**) Añadir un evento | Importante | Funcional | Fácil | v1 | 
+| (**R44**) Modificar un evento | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Eliminar un evento | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Añadir un usuario | Importante | Funcional | Fácil | v1 | 
+| (**R47**) Modificar un usuario | Importante | Funcional | Fácil | v1 | 
+| (**R48**) Eliminar un usuario | Importante | Funcional | Fácil | v1 | 
+| (**R49**) Registrarse | Importante | Funcional | Fácil | v1 | 
+| (**R50**) Iniciar sesión | Importante | Funcional | Fácil | v1 | 
+| (**R51**) Cerrar Sesión | Importante | Funcional | Fácil | v1 | 
+| (**R52**) Buscar evento por categoría | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Buscar un usuario | Importante | Funcional | Fácil | v1 | 
+| (**R54**) Ordenar por categorías | Importante | Funcional | Fácil | v1 | 
+| (**R55**) Ordenar por fecha de creación | Importante | Funcional | Fácil | v1 | 
+| (**R56**) Guardar la ubicación del evento | Importante | Técnico | Difícil | v3 | 
+| (**R57**) Realizar comentarios a los usuarios | Importante | Funcional | Media | v2 | 
+| (**R58**) Valorar el evento | Opcional | Funcional | Difícil | v2 | 
+| (**R59**) Crear Torneo | Opcional | Funcional | Difícil | v3 | 
+| (**R60**) Añadir amigo | Importante | Funcional | Difícil | v2 | 
+| (**R61**) Eliminar amigos | Importante | Funcional | Difícil | v2 | 
+| (**R62**) Realizar comentarios sobre el evento | Opcional | Funcional | Difícil | v3 | 
+| (**R63**) Valorar al usuario | Opcional | Funcional | Difícil | v2 | 
+| (**R64**) Correo de confirmación | Importante | Funcional | Media | v2 | 
+| (**R65**) Recuperar contraseña | Importante | Funcional | Difícil | v3 | 
+| (**R66**) Gestionar usuarios | Importante | Funcional | Difícil | v3 | 
+| (**R67**) Chat en tiempo real  | Importante | Funcional | Difícil | v3 | 
+| (**R68**) Pago a través de PayPal | Importante | Funcional | Difícil | v3 | 
+| (**R69**) Foto de perfil  | Importante | Funcional | Fácil | v3 | 
+| (**R70**) Aficiones | Importante | Funcional | Fácil | v3 | 
+| (**R71**) Mi perfil | Importante | Funcional | Media | v2 | 
+| (**R72**) Niveles | Opcional | Funcional | Difícil | v3 | 
+| (**R73**) Posición | Importante | Funcional | Media | v3 | 
+| (**R74**) Ligas | Opcional | Funcional | Difícil | v3 | 
