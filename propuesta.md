@@ -1,4 +1,4 @@
-% Aplicacion buscar partidos "Sport Together"
+% "Sport Together"
 % Enrique Cuevas Garcia
 % Curso 2020/21
 
@@ -13,11 +13,15 @@ La aplicacion tendra como objetivo conectar con diferentes usuarios para realiza
 ## Objetivos generales
 
 * Objetivo: "Crear eventos para hacer deporte con diferentes personas".
+
 * Casos de uso:
- -Invitado : "registrarse", "ver eventos","ver competiciones".
- -Usuarios: "iniciar sesion","cerrar sesion","crear evento","apuntarse al evento","editar perfil","borrar cuenta","buscar otros usuari
- -Administrador: "iniciar sesion","cerrar sesion","crear evento","modificar el evento","modificar perfiles de usuarios","eliminar un usuario","borrar comentarios",
+  * Invitado : "registrarse", "ver eventos","ver competiciones".
+
+  * Usuarios: "iniciar sesion","cerrar sesion","crear evento","apuntarse al evento","editar perfil","borrar cuenta","buscar otros usuarios".
+
+  * Administrador: "iniciar sesion","cerrar sesion","crear evento","modificar el evento","modificar perfiles de usuarios","eliminar un usuario","borrar comentarios".
  
 # Elemento de innovación
 
- Implementar un mapa donde concrete el lugar exacto del evento.Pago a traves de PayPal.
+ Implementar un mapa donde concrete el lugar exacto del evento.
+ Pago a traves de PayPal.
