@@ -667,6 +667,105 @@
 | **Entrega**     | v3             |
 
 
+| **R75**     | **Mi perfil**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario mostrar su perfil con sus gustos deportivos. Podrá gestionar todos los datos que tenga asociado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R76**     | **Niveles**         |
+| --------------: | :------------------- |
+| **Descripción** | Algunos deportes de categorizan por niveles, los usuarios dirán a que nivel pertenece             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R77**     | **Posición**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios indicaran en la posición preferente que juegan en los diferentes deportes.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R78**     | **Ligas**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán crear ligas interna dentro de la aplicación             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R79**     | **Compartir evento por Redes sociales**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán compartir el evento por las diferentes redes sociales, por si consiguen nuevos compañeros para el evento             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R80**     | **Niveles**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán subir categorías que serán:Bronce,Plata y Oro, dependiendo los partidos o eventos que participen             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R81**     | **Recomendaciones**         |
+| --------------: | :------------------- |
+| **Descripción** | Al creador del evento le podrá aparecer usuarios recomendados con los gustos del evento              |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R82**     | **Generador de equipos aleatorios**         |
+| --------------: | :------------------- |
+| **Descripción** | Al completar el evento , se usara una herramienta externa que introducirá a los participantes y crearan los equipos. Ejemplo: https://app-sorteos.com/es/apps/sortear-grupos-online             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R83**     | **Grupos**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán crear grupos para participar esos usuarios cuando se cree el evento             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R84**     | **Tiempo**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán consultar el tiempo , que hará para el día del evento.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R85**     | **Tipo de pista**         |
+| --------------: | :------------------- |
+| **Descripción** | De que material la pista en donde se jugara             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
 
 ## Cuadro resumen
 
@@ -746,3 +845,14 @@
 | (**R72**) Niveles | Opcional | Funcional | Difícil | v3 | 
 | (**R73**) Posición | Importante | Funcional | Media | v3 | 
 | (**R74**) Ligas | Opcional | Funcional | Difícil | v3 | 
+| (**R75**) Mi perfil | Importante | Funcional | Media | v2 | 
+| (**R76**) Niveles | Opcional | Funcional | Difícil | v3 | 
+| (**R77**) Posición | Importante | Funcional | Media | v2 | 
+| (**R78**) Ligas | Opcional | Funcional | Difícil | v3 | 
+| (**R79**) Compartir evento por Redes sociales | Opcional | Funcional | Difícil | v3 | 
+| (**R80**) Niveles | Opcional | Funcional | Difícil | v3 | 
+| (**R81**) Recomendaciones | Opcional | Funcional | Difícil | v3 | 
+| (**R82**) Generador de equipos aleatorios | Opcional | Funcional | Difícil | v3 | 
+| (**R83**) Grupos | Importante | Funcional | Media | v2 | 
+| (**R84**) Tiempo | Importante | Funcional | Media | v2 | 
+| (**R85**) Tipo de pista | Importante | Funcional | Fácil | v1 | 
